@@ -13,3 +13,5 @@ file location ~/.tmux.conf
 file location ~/.bashrc
 
 - changed colors
+
+![screen](/screenshots/bash.PNG)
